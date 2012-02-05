@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+finpypa/__init__.py
+finpypa.egg-info/PKG-INFO
+finpypa.egg-info/SOURCES.txt
+finpypa.egg-info/dependency_links.txt
+finpypa.egg-info/entry_points.txt
+finpypa.egg-info/top_level.txt
+finpypa.egg-info/zip-safe
